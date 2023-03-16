@@ -9,3 +9,5 @@ sudo python3 -m pip install boto3
 sudo python3 -m pip install s3fs
 sudo python3 -m pip install fsspec
 
+https://youtu.be/32wZmVeb6rQ How to LINK Github repository to EMR Console
+
